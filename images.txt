@@ -20,3 +20,4 @@ langgenius/dify-api
 elestio/flowiseai
 flowiseai/flowise
 mintplexlabs/anythingllm
+hslr/sun-panel
