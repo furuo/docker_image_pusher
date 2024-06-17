@@ -19,3 +19,4 @@ langgenius/dify-web
 langgenius/dify-api
 elestio/flowiseai
 flowiseai/flowise
+mintplexlabs/anythingllm
