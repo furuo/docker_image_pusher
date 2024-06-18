@@ -6,14 +6,6 @@ snowdreamtech/frpc
 lobehub/lobe-chat
 ollama/ollama
 1panel/maxkb
-nginx
-linuxserver/emby
-looby/aliyundrive-subscribe
-jxxghp/moviepilot
-snowdreamtech/frpc
-lobehub/lobe-chat
-ollama/ollama
-1panel/maxkb
 zhangqinghua/fastgpt
 langgenius/dify-web
 langgenius/dify-api
