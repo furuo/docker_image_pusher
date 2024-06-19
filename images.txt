@@ -6,9 +6,8 @@ snowdreamtech/frpc
 lobehub/lobe-chat
 ollama/ollama
 1panel/maxkb
-zhangqinghua/fastgpt
-elestio/flowiseai
+langgenius/dify-web
 flowiseai/flowise
 mintplexlabs/anythingllm
 hslr/sun-panel
-langgenius/dify-web
+
