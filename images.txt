@@ -7,9 +7,8 @@ lobehub/lobe-chat
 ollama/ollama
 1panel/maxkb
 zhangqinghua/fastgpt
-langgenius/dify-web
-langgenius/dify-api
 elestio/flowiseai
 flowiseai/flowise
 mintplexlabs/anythingllm
 hslr/sun-panel
+langgenius/dify-web
