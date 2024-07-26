@@ -12,3 +12,4 @@ mintplexlabs/anythingllm
 hslr/sun-panel
 jellyfin/jellyfin
 xhofe/alist
+nyanmisaka/jellyfin
