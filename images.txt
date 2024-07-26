@@ -11,3 +11,4 @@ flowiseai/flowise
 mintplexlabs/anythingllm
 hslr/sun-panel
 jellyfin/jellyfin
+xhofe/alist
