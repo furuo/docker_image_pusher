@@ -1,6 +1,8 @@
 nginx
 emby/embyserver
 looby/aliyundrive-subscribe
+rancher/harvester-nvidia-driver-toolkit
+chainguard/nvidia-container-toolkit
 jxxghp/moviepilot
 snowdreamtech/frpc
 lobehub/lobe-chat
