@@ -1,5 +1,5 @@
 nginx
-linuxserver/emby
+emby/embyserver
 looby/aliyundrive-subscribe
 jxxghp/moviepilot
 snowdreamtech/frpc
